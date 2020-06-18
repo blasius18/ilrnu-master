@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5753724c.chunk.css",
-    "main.js": "/static/js/main.e1ad8b00.chunk.js",
-    "main.js.map": "/static/js/main.e1ad8b00.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fd8a5911.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fd8a5911.js.map",
-    "static/css/2.55146207.chunk.css": "/static/css/2.55146207.chunk.css",
-    "static/js/2.467f2e56.chunk.js": "/static/js/2.467f2e56.chunk.js",
-    "static/js/2.467f2e56.chunk.js.map": "/static/js/2.467f2e56.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a5fcbcc697359cb420877ddaf572d226.js": "/precache-manifest.a5fcbcc697359cb420877ddaf572d226.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.55146207.chunk.css.map": "/static/css/2.55146207.chunk.css.map",
-    "static/css/main.5753724c.chunk.css.map": "/static/css/main.5753724c.chunk.css.map",
-    "static/js/2.467f2e56.chunk.js.LICENSE.txt": "/static/js/2.467f2e56.chunk.js.LICENSE.txt"
+    "main.css": "/ilrnu-master/static/css/main.5753724c.chunk.css",
+    "main.js": "/ilrnu-master/static/js/main.247c0987.chunk.js",
+    "main.js.map": "/ilrnu-master/static/js/main.247c0987.chunk.js.map",
+    "runtime-main.js": "/ilrnu-master/static/js/runtime-main.cd1dca88.js",
+    "runtime-main.js.map": "/ilrnu-master/static/js/runtime-main.cd1dca88.js.map",
+    "static/css/2.55146207.chunk.css": "/ilrnu-master/static/css/2.55146207.chunk.css",
+    "static/js/2.467f2e56.chunk.js": "/ilrnu-master/static/js/2.467f2e56.chunk.js",
+    "static/js/2.467f2e56.chunk.js.map": "/ilrnu-master/static/js/2.467f2e56.chunk.js.map",
+    "index.html": "/ilrnu-master/index.html",
+    "precache-manifest.d6d00a519b64c6d6a13a374ddbf86c4b.js": "/ilrnu-master/precache-manifest.d6d00a519b64c6d6a13a374ddbf86c4b.js",
+    "service-worker.js": "/ilrnu-master/service-worker.js",
+    "static/css/2.55146207.chunk.css.map": "/ilrnu-master/static/css/2.55146207.chunk.css.map",
+    "static/css/main.5753724c.chunk.css.map": "/ilrnu-master/static/css/main.5753724c.chunk.css.map",
+    "static/js/2.467f2e56.chunk.js.LICENSE.txt": "/ilrnu-master/static/js/2.467f2e56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd8a5911.js",
+    "static/js/runtime-main.cd1dca88.js",
     "static/css/2.55146207.chunk.css",
     "static/js/2.467f2e56.chunk.js",
     "static/css/main.5753724c.chunk.css",
-    "static/js/main.e1ad8b00.chunk.js"
+    "static/js/main.247c0987.chunk.js"
   ]
 }
