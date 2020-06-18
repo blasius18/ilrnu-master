@@ -32,7 +32,7 @@ import Skills from './Skills';
               jobName="Second Job"
               jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
               />
-  <hr style={{border: '1px solid #e22947'}} />
+  <hr style={{border: '1px solid #F3A433'}} />
 
             <h2>Skills</h2>
               <Skills
